@@ -26,5 +26,10 @@ Coming soon
 ## Databricks Apps - Hands-on (3 of 3)
 Coming soon
 
+## Contributors:
 
+Souvik Pratiher & Purvang Parikh, 
+Solution Architects, Databricks
+
+If you find any bugs let us know by raising an issue!
 
