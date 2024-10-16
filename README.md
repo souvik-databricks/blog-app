@@ -28,7 +28,7 @@ Coming soon
 
 ## Contributors:
 
-Souvik Pratiher & Purvang Parikh, 
+[Souvik Pratiher](https://www.linkedin.com/in/souvik-pratiher-32bb3a133/) & [Purvang Parikh](https://www.linkedin.com/in/purvangparikh/), 
 Solution Architects, Databricks
 
 If you find any bugs let us know by raising an issue!
